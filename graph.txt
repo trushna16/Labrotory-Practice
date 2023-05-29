@@ -1,0 +1,9 @@
+{
+	
+	"Nashik":["Pune","Mumbai"],
+	"Mumbai":["Nashik","Kolhapur"],
+	"Kolhapur":["Mumbai"],
+	"Pune":["Nashik","Satara"],
+	"Satara":["Pune"]
+}
+
